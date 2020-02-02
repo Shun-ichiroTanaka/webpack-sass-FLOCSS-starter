@@ -19,7 +19,8 @@ npm run watch
 npm run build
 ```
 
-### Features:
-#### Sassの設計はFLOCSSを想定
+### 備考:
+#### Sass設計はFLOCSS
 #### reset.scssでスタイルの初期化済み
 #### レスポンシブ対応を想定しmixin.scssにメソッドを用意
+#### index.htmlにスタイルが当たるようになっている
