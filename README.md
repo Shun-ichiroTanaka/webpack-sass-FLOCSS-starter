@@ -20,5 +20,6 @@ npm run build
 ```
 
 ### Features:
-Sassの設計はFLOCSSを想定していて、reset.scssでスタイルの初期化済み
-レスポンシブ対応を想定しmixin.scssに簡易メソッドを用意
+#### Sassの設計はFLOCSSを想定
+#### reset.scssでスタイルの初期化済み
+#### レスポンシブ対応を想定しmixin.scssにメソッドを用意
